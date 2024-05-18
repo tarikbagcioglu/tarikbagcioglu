@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarik Bagcioglu</h1>
-<h3 align="center">SAAS/LESS, JS&, REACT | Git | Figma</h3>
+<h3 align="center">Sass/Less, Js &, React | Git | Figma</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
